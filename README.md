@@ -29,7 +29,7 @@
 
 ## ⚡ Fun Facts
 - Currently Playing: It Takes Two (PS5)
-- Currently Reading: The Lies of Locke Lamora by Scott Lynch
+- Currently Reading: Republic of Thieves by Scott Lynch
 
 <!-- Technologies Section -->
 
