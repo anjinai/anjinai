@@ -5,7 +5,6 @@
 </div>
 
 <h1> 
-  <img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px"> 
   <b>Hi, I’m Anjali!</b>  
   <a href="mailto: anjali.nainani@gmail.com">
     <img align="right" alt="Anjali's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
