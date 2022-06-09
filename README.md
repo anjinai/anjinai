@@ -1,9 +1,5 @@
 <!-- Hello World & Contact Info Tiles -->
 
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Hello World" />
-</div>
-
 <h1> 
   <b>Hi, I’m Anjali!</b>  
   <a href="mailto: anjali.nainani@gmail.com">
@@ -19,7 +15,7 @@
 
 <!--  About Me Section  -->
 
-- 👩🏻‍💻 ︱ My name is Anjali and I'm a junior software engineer.
+- 👩🏻‍💻 ︱ My name is Anjali and I'm a software engineer.
 - 👩🏻‍🎓 ︱ I am a graduate of The Grace Hopper Program at Fullstack Academy (a software development immersive at Fullstack Academy whose mission is to make tech careers more accessible to women+).  
 - 👩🏻‍🎓 ︱ I also have a BS in Business Administration from the University at Buffalo, State University of New York.
 - 💵 ︱ Before pivoting to software engineering, I spent the last 6 years working in Operations and Compliance for a global emerging markets hedge fund headquartered in NY, with offices in Sao Paulo, Mumbai, and Shanghai.
@@ -28,7 +24,7 @@
 
 ## ⚡ Fun Facts
 - Currently Playing: It Takes Two (PS5)
-- Currently Reading: Republic of Thieves by Scott Lynch
+- Currently Reading: Project Hail Mary by Andy Weir
 
 <!-- Technologies Section -->
 
@@ -56,5 +52,7 @@
   <img src= "https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=firebase&logoColor=FFCA28">
   <img src= "https://img.shields.io/badge/git-282C34?style=for-the-badge&logo=git&logoColor=F05032">
   <img src= "https://img.shields.io/badge/ESLint-282C34?style=for-the-badge&logo=eslint&logoColor=4B32C3"> 
+  <img src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="
 </div>
 
