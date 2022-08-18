@@ -15,7 +15,6 @@
 
 <!--  About Me Section  -->
 
-- 👩🏻‍💻 ︱ My name is Anjali and I'm a software engineer.
 - 👩🏻‍🎓 ︱ I am a graduate of The Grace Hopper Program at Fullstack Academy (a software development immersive at Fullstack Academy whose mission is to make tech careers more accessible to women+).  
 - 👩🏻‍🎓 ︱ I also have a BS in Business Administration from the University at Buffalo, State University of New York.
 - 💵 ︱ Before pivoting to software engineering, I spent the last 6 years working in Operations and Compliance for a global emerging markets hedge fund headquartered in NY, with offices in Sao Paulo, Mumbai, and Shanghai.
@@ -23,7 +22,7 @@
 <!-- Fun Facts Section -->
 
 ## ⚡ Fun Facts
-- Currently Playing: It Takes Two (PS5)
+- Currently Playing: Stray (PS5)
 - Currently Reading: Project Hail Mary by Andy Weir
 
 <!-- Technologies Section -->
