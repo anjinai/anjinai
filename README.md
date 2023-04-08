@@ -22,8 +22,7 @@
 <!-- Fun Facts Section -->
 
 ## ⚡ Fun Facts
-- Currently Playing: Stray (PS5)
-- Currently Reading: Project Hail Mary by Andy Weir
+- Currently Reading: The First Law Trilogy By Joe Abercrombie
 
 <!-- Technologies Section -->
 
