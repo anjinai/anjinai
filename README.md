@@ -1,31 +1,3 @@
-<!-- Hello World & Contact Info Tiles -->
-
-<h1> 
-  <b>Hi, I’m Anjali!</b>  
-  <a href="mailto: anjali.nainani@gmail.com">
-    <img align="right" alt="Anjali's Email" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" />
-  </a> 
-  <a href= "https://github.com/anjinai">
-    <img align="right" alt="Anjali's Github" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/anjali-nainani/">
-    <img align="right" alt="Anjali's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" />
-  </a>
-</h1>
-
-<!--  About Me Section  -->
-
-- 👩🏻‍🎓 ︱ I am a graduate of The Grace Hopper Program at Fullstack Academy (a software development immersive at Fullstack Academy whose mission is to make tech careers more accessible to women+).  
-- 👩🏻‍🎓 ︱ I also have a BS in Business Administration from the University at Buffalo, State University of New York.
-- 💵 ︱ Before pivoting to software engineering, I spent the last 6 years working in Operations and Compliance for a global emerging markets hedge fund headquartered in NY, with offices in Sao Paulo, Mumbai, and Shanghai.
-
-<!-- Fun Facts Section -->
-
-## ⚡ Fun Facts
-- Currently Reading: The First Law Trilogy By Joe Abercrombie
-
-<!-- Technologies Section -->
-
 ## 🛠 Technologies
 
 <div align="center"> 
